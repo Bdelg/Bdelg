@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi! My name is Brian, and I'm a University student. In my repositories you can find either school projects or projects that have been based on concepts I learned in class. 
+
+
 
 <!--
 **Bdelg/Bdelg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
